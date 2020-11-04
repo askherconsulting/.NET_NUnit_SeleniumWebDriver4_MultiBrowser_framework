@@ -1,0 +1,9 @@
+C:\c#_selenium4_framework_portfolio\Framework\bin\Debug\netstandard2.0\Framework.deps.json
+C:\c#_selenium4_framework_portfolio\Framework\bin\Debug\netstandard2.0\Framework.dll
+C:\c#_selenium4_framework_portfolio\Framework\bin\Debug\netstandard2.0\Framework.pdb
+C:\c#_selenium4_framework_portfolio\Framework\obj\Debug\netstandard2.0\Framework.csprojAssemblyReference.cache
+C:\c#_selenium4_framework_portfolio\Framework\obj\Debug\netstandard2.0\Framework.AssemblyInfoInputs.cache
+C:\c#_selenium4_framework_portfolio\Framework\obj\Debug\netstandard2.0\Framework.AssemblyInfo.cs
+C:\c#_selenium4_framework_portfolio\Framework\obj\Debug\netstandard2.0\Framework.csproj.CoreCompileInputs.cache
+C:\c#_selenium4_framework_portfolio\Framework\obj\Debug\netstandard2.0\Framework.dll
+C:\c#_selenium4_framework_portfolio\Framework\obj\Debug\netstandard2.0\Framework.pdb

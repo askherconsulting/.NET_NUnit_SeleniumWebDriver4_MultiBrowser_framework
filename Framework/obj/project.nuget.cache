@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZRr2NaVQKRIF8tylY2YzqKy7vwditTbKg1CYbxJhfnPz0yIL8Ahn66ZPd2Z5N6nVvS6iFNhA1rCjdMsCmiGKCA==",
+  "success": true,
+  "projectFilePath": "C:\\c#_selenium4_framework_portfolio\\Framework\\Framework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elizabeth.marshall\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\elizabeth.marshall\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
