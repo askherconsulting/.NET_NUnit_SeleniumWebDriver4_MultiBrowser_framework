@@ -1,5 +1,5 @@
 # .NET_NUnit_SeleniumWebDriver4_CrossBrowser_Automation_Framework
- A basic automation framework for .NET /VSCode using latest Selenium and multiple browser drivers.
+ A basic automation framework for C#/.NET using latest Selenium and multiple browser drivers.
 Based upon Carlos Kidman's excellent Test Automation University Course: https://testautomationu.applitools.com/test-automation-framework-csharp/
 
 This framework demonstrates running the same test against Chrome, Edge(Chromium) and Firefox browsers.
